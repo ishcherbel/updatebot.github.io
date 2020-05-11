@@ -1,0 +1,29 @@
+body {background:url(https://html5book.ru/wp-content/uploads/2015/10/background54.png)}
+h1{
+	text-align: center;
+	font-size: 4em;
+	font-family: Arial;
+	color: #32a852;
+}
+h2{
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+	color: #1FA326;
+}
+h3{
+	text-align: center;
+	font-family: Arial;
+    font-size: 2em;
+	color: #719F00;
+}
+h4{
+	text-align: center;
+	font-family: Arial;
+    font-size: 2em;
+	color: #719F00;
+}
+img{
+    margin-left: 35%;
+	width: 30%;
+}
